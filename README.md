@@ -214,3 +214,6 @@ Safely stops both FastAPI and Streamlit processes.
 AI Data Cleaning Assistant Project
 
 ---
+🎥 Demo Video:
+https://drive.google.com/file/d/1BVzVAc6p_DW9spSXgeEb0y8jKNNjdc5N/view?usp=sharing
+
