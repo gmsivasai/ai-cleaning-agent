@@ -3,6 +3,8 @@ AI Data Cleaning Assistant
 An end-to-end **AI-powered CSV Data Cleaning Assistant** that allows users to securely upload messy datasets, analyze common data quality issues, apply intelligent cleaning steps, and download cleaned files — all through a simple web interface.
 
 ---
+🎥 Demo Video:
+https://drive.google.com/file/d/1BVzVAc6p_DW9spSXgeEb0y8jKNNjdc5N/view?usp=sharing
 
 ## 📌 Features
 
@@ -214,6 +216,4 @@ Safely stops both FastAPI and Streamlit processes.
 AI Data Cleaning Assistant Project
 
 ---
-🎥 Demo Video:
-https://drive.google.com/file/d/1BVzVAc6p_DW9spSXgeEb0y8jKNNjdc5N/view?usp=sharing
 
